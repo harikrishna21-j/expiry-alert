@@ -7,7 +7,7 @@ class ProductManager {
                 name: 'Fresh Milk',
                 description: 'Farm-fresh whole milk',
                 price: 60,
-                expiryDate: '08-09-2025',
+                expiryDate: '04-14-2025',
                 image: 'https://static.wixstatic.com/media/6c0af0_81fc5136e2e74723aadf43407891a3f2~mv2.png/v1/fill/w_480,h_480,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6c0af0_81fc5136e2e74723aadf43407891a3f2~mv2.png',
                 category: 'Dairy'
             },
